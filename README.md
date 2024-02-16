@@ -1,4 +1,4 @@
-<h1 align="center"><b>Tubular Extractor</b></h2>
+<h2 align="center"><b>BluePipe Extractor</b></h2>
 <h4 align="center">A fork of <a href="https://github.com/TeamNewPipe/NewPipeExtractor/">NewPipeExtractor</a>, a library for extracting things from streaming sites. It is a core component of <a href="https://github.com/polymorphicshade/Tubular">Tubular</a>, but could be used independently.
 
 ## License
